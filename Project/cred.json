@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "taekwondotechniquestracker",
+  "private_key_id": "f4326e97b1b59c59b2a12642b27eba3896c50d38",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCutI1G3HoU/dBC\n9hLf7NGIzGyauaXRRa8nvN9aXeyuTr0Rgxevh3bokJJHnHdOAK3c9BGWE18EhJcX\nw/vFAkueH8PpHhfTx6im7kk0AfTqZ/wewXfE2MW+uw+fvckvsTmSH/IPu38l2oZO\n55DkC1SgDiE22ttiwitnZmrfpV1fmvVjgHz8mLRY3C+M4no2OqFR2TdrOcduNFl/\nITjmzmn9jwJM7VjyPO265/UOEKvmJvlFIFIr8hEr1O/gNeDdgi2xl6/zOM+Y/qI1\ndwr7Uz3HQXEEnZvTWBGL7ynKYR+UVQ1iSa6M0NHdIONI4TXRpit0+vM3mSX441pu\n9uAOS1hLAgMBAAECggEAOVovaNxXPY3nMRxMLPO3A8QsQQ0B+PX53r87yZQ87yoN\nGnMhMu/zIrzXMKgWaGaDrR34qf5Y+og2e8hMXiv3PAUskNpesxj/7jEamfaseslB\nNK2JjnclT4xkQCoTIlN5VVWkZvLD9l7LKZsObzajBNouoC3vyHd6vTqbiijkws31\nS/81CDAF2ltywi3+VS6mG3sU87zIdHguxhEQkC8om9oyts+DZs63K0c0fbnN+v8v\nbu8KyAXRap+1Q/4o2pjR09XVHfZBxPRvKW4yChSWerNXYr21vON/qmfXFiXNz8pU\nH+vyv13bjtNLKKm5XEtUU2/IXnNP8qYKOwI81bCCRQKBgQDz9uLk8Z3AzW3iZM6L\ny9acrZ8N2SQBoey0SKCLQ52rjAjuxvxLOJyfFY7qisFNG9B6n+JoOwyw1G1Tg6UC\nCDvyeeGznYHRxrLLG4OEDVp5a/h/RtVsz+wP28Kc1LYKGJ+AHDSh/Y4nJ0+vaIWn\n+X1tgz//cc5/iaXgHG0dFsjF5wKBgQC3UvelFFaRHKv9eURxdOdU3mAIFtItqTG0\n7a7YO5VmTUUZ6zX817YYLzjzzHSQXqZ/hksAB9eJ4Bq3EoUFWlgdyKHb8sVEeZTJ\nDmew4cqp7/6Fcq/BXoqP/Sd7VNx4k5tHrH7h3Mfk9BMEFC3QcU1mtbqAnJ57gOqL\nJySdzSPF/QKBgHO81WlNosxb6Nx1fHNfsaHE0Gcuc2F+4x+oMNnAqyU+GuLEbd51\nrf/ep11nlEqzflUeUremA+BD9tWe54IuS9o9rjCa8YKGpD2tANh9yUU/TrV68jdb\n8J6ZYBss4mupwMlzGBkdg/nZMXmCuZ21w6ZXlN3nrNJeh93pPm6FZ5xTAoGAJ4rF\nz92rLnG4x1u436APpcaxgA0sGJ0+E4CRDiML/pz8IrMRWhBNProw1qVrHxjLYQZe\ndws5+otUN9jOyHDMQOBdyUt8MWDoLtXkl8qcJDuX8sDiGBuEV7qLIZcUVw2/mJ4k\nYCN3GnNrBp4zo5pMz7KzH7qolIsiDBHNXBw7cyECgYEAwb3eFxRT2Zt3ldoVCb6O\nyeK4CiaWZJ023qvRA0k0uGBkKN34gluxaQlH6vSeUlyt+hJkq+HQ1JVIuHuDCtIB\ne7wzoWXRfGkcC3vGc2fW89RYpqz8R447nRBMANJmVHUMmdwWUfDEjcvBTMzD70RO\nH4g4NJEmoAM2yE0Crb1eyAE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-g3pq9@taekwondotechniquestracker.iam.gserviceaccount.com",
+  "client_id": "111483178325369693998",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-g3pq9%40taekwondotechniquestracker.iam.gserviceaccount.com"
+}
